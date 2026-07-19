@@ -27,6 +27,3 @@ Hi! I'm Dalkeith, a Computer Science student with a passion for data analytics. 
 ## 📫 Contact
 - LinkedIn - www.linkedin.com/in/dalkeith-tagoe
 - Email - tagoedalkeith9@gmail.com
-
-- LinkedIn:
-- Email:
