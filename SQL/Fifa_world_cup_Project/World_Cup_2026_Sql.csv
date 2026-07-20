@@ -1,0 +1,50 @@
+player_name,country,current_club,transfer_value,player_height,player_weight,shirt_number,predicted_world_cup_finish,current_world_ranking
+Lionel Messi,Argntina,Inter Miami,30m,170 cm,72 kg,10,Champions,1
+Lautaro Martínez ,Argentina,Internazionale,95m,174 cm,80 kg,22,Champions,1
+Julián Alvarez,Argentina,Atletico de Madrid,,170 cm,71 kg,9,Champions,1
+Alexis Mac Allister,Argentina,Liverpool,65m,176 cm,72 kg,20,Champions,1
+Enzo Fernández,Argentina,Chelsea,70m,178 cm,76 kg,24,Champions,1
+William Saliba,France ,Arsenal,80m,192 cm,92 kg,4,Runners-up,3
+Aurélien Tchouaméni,France,Real Madrid,90m,188 cm,81 kg,8,Runners-up,3
+Ousmane Dembele,France,Paris Saint-Germain,60m,178 cm,67 kg,11,Runners-up,3
+Theo Hernandez,France,AC Milan,60m,184 cm,81 kg,22,Runners-up,3
+Florian Wirtz ,Germany,Liverpool,130m,176 cm,72 kg,7,Quarter-finals,10
+Jamal Musiala,Germany,Bayern Munich,120m,184 cm,72 kg,10,Quarter-finals,10
+Kai Havertz,Germany,Arsenal,75m,193 cm,83 kg,19,Quarter-finals,10
+Antonio Rudiger,Germany,Real Madrid,25m,190 cm,85 kg,2,Quarter-finals,10
+Joshua Kimmich,Germany,Bayern Munich,50m,,75 kg,6,Quarter-finals,10
+Jude Bellingham,England,Real Madrid,180m,186 cm,75 kg,10,Semi-finals,4
+Harry Kane,England,Bayern Munich,90m,188 cm,86 kg,9,Semi-finals,4
+Bukayo Saka,England,Arsenal,130m,1.78 m,72 kg,7,Semi-finals,4
+Phil Foden,England,Manchester City,150m,171 cm,70 kg,11,Semi-finals,4
+Declan Rice,England,Arsenal,110m,185 cm,80 kg,4,Semi-finals,4
+Vinicius Junior,Brazil,Real Madrid,180m,176 cm,73 kg,7,Quarter-finals,6
+Bruno Guimaraes,Brazil,Newcastle United,85m,182 cm,78 kg,5,Quarter-finals,6
+Gabriel Magalhaes,Brazil,Arsenal,70m,190 cm,87 kg,4,Quarter-finals,6
+Alisson Becker,Brazil,Liverpool,28m,193 cm,,1,Quarter-finals,6
+Christian Pulisic,United States,AC Milan,40m,178 cm,73 kg,10,Round of 16,17
+Weston McKennie,United States,Juventus,25m,185 cm,84 kg,8,Round of 16,17
+Folarin Balogun,United States,Monaco,30m,178 cm,68 kg,20,Round of 16,17
+Antonee Robinson,United States,Fulham,25m,183 cm,70 kg,5,Round of 16,17
+Santiago Giminez,Mexico,Feyenoord,45m,182 cm,79 kg,11,Round of 16,14
+Edson Alvarez,Mexico,West Ham United,35m,187 cm,73 kg,4,Round of 16,14
+Lamine Yamal,Spain,Barcelona,120m,178 cm,66,19,Semi-finals,2
+Pedri,Spain,Barcelona,80m,174 cm,60 kg,20,Semi-finals,2
+Rodri,Spain,Manchester City,110m,191 cm,82 kg,16,Semi-finals,2
+Nico Williams,Spain,Athletic Bilbao,70m,181 cm,67 kg,17,Semi-finals,2
+Rafael Leao,Portugal,AC Milan,90m,188 cm,81 kg,17,Quarter-finals,5
+Bruno Fernandes,Portugal,Manchester United,70m,179 cm,69 kg,8,Quarter-finals,5
+Bernardo Silva,Portugal,Manchester City,60m,173 cm,64 kg,10,Quarter-finals,5
+Ruben Dias,Portugal,Manchester City,80m,187 cm,85 kg,4,Quarter-finals,5
+Darwin Nunez,Uruguay,Al Hilal,55m,187 cm,81 kg,9,Quarter-finals,11
+Federico Valverde,Uruguay,Real Madrid,120m,182 cm,78 kg,8,Quarter-finals,11
+Ronald Arujo,Uruguay,Barcelona,40m,188 cm,79 kg,4,Quarter-finals,11
+Frenkie de Jong,Netherlands,Barcelona,60m,181 cm,74 kg,21,Round of 16,7
+Virgil van Dijk,Netherlands,None,30m,193 cm,92 kg,4,Round of 16,7
+Cody Gakpo,Netherlands,Liverpool,50m,193 cm,76 kg,11,Round of 16,7
+Luis Diaz,Colombia,Liverpool,75m,180 cm,65 kg,7,Round of 16,12
+James Rodriquez,Colombia,Rayo Vallecano,5m,180 cm,75 kg,10,Round of 16,12
+Erling Haaland,Norway,Manchester City,180m,194 cm,88 kg,9,Round of 32,24
+Kylian Mbappe,France,Real Madrid,180m,178 cm,75 kg,10,Runners-up,3
+Kai Havertz,Germany,Arsenal,75m,193 cm,83 kg,7,Semi-finals,16
+Antoine Semenyo,Ghana,Manchester City,110m,185 cm,74 kg,11,Group stage,73
