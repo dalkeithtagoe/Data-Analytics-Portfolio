@@ -25,7 +25,7 @@ Hi! I'm Dalkeith, a Computer Science student with a passion for data analytics. 
 - Data Professional Survey Dashboard
 
  ### Python
--  Coming soom
+-  Coming soon
 
 
 ## 📫 Contact
