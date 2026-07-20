@@ -8,6 +8,7 @@ Hi! I'm Dalkeith, a Computer Science student with a passion for data analytics. 
 - Microsoft Excel
 - Tableau
 - Power BI
+- Python
 
 ## 📂 Projects
 
@@ -21,7 +22,10 @@ Hi! I'm Dalkeith, a Computer Science student with a passion for data analytics. 
 - Air-bnb Sales Dashboard
 
 ### Power BI
-- Customer Sales Dashboard
+- Data Professional Survey Dashboard
+
+ ### Python
+-  Coming soom
 
 
 ## 📫 Contact
